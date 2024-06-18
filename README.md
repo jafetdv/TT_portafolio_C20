@@ -17,3 +17,7 @@ En este sprint repasamos conceptos asociados a las librerías básicas de análi
 - numpy
 
 Además de aprender a declarar funciones.
+
+## Sprint 3: Data Wrangling
+En este sprint aprendemos algunos conceptos de desarrollo de software como:
+- git
