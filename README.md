@@ -10,3 +10,10 @@ En este sprint vimos conceptos basicos de python tales como:
 - Listas anidadas.
 - Cilcos for/while.
 - Condicionales con if, else, elif.
+
+## Sprint 2: Puthon Basico - Continuacion
+En este sprint repasamos conceptos asociados a las librerías básicas de análisis de datos:
+- pandas
+- numpy
+
+Además de aprender a declarar funciones.
