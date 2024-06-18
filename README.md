@@ -21,6 +21,6 @@ Además de aprender a declarar funciones.
 ## Sprint 3: Data Wrangling
 En este sprint se enseñan conceptos básicos de la limpieza y análisis explortorio de datos
 
-## Sprint 3: Desarrollo de software
+## Sprint 5: Desarrollo de software
 En este sprint aprendemos algunos conceptos de desarrollo de software como:
 - git
